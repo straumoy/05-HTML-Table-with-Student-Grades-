@@ -19,3 +19,4 @@ This project introduces the basic HTML table structure:
     border, cellpadding, and cellspacing add basic styling without CSS
     Later, you can enhance it with CSS for cleaner visuals or interactivity.
 
+see classroom_grades.png for template
